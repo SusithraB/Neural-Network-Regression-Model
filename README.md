@@ -1,4 +1,4 @@
-![{8C6904D8-7C18-4A07-BA76-B9565B8F4033}](https://github.com/user-attachments/assets/a3d680c2-9fdd-4ad5-81cc-3ee7c8b881e3)# Developing a Neural Network Regression Model
+## Developing a Neural Network Regression Model
 
 ## AIM
 
